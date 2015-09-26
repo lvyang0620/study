@@ -1,0 +1,4 @@
+”√ªß√˚£∫
+git config --global user.name "lvyang"
+” œ‰£∫
+git config --global user.email "1043396030@qq.com"
